@@ -1,7 +1,7 @@
 {
   "name": "nodejs-securing-resful-apis-lin",
   "version": "1.0.0",
-  "description": "Linked In securing nodejs restul apis course.",
+  "description": "Linked In securing nodejs restful apis course.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js",
